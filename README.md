@@ -1,0 +1,2 @@
+# finalHD
+diccionario sikuani -espanol
